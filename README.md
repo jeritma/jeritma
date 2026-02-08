@@ -1,12 +1,12 @@
 ## Hi there 👋
+# Selam, ben [Halil]! 
 
+### Hakkımda: Öğrenmeye aç biri
 <!--
 **jeritma/jeritma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-# Selam, ben [Halil]! 
 
-### Hakkımda: Öğrenmeye aç biri
 
 - 🔭 I’m currently working on Git
 - 🌱 I’m currently learning Github
